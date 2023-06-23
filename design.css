@@ -1,17 +1,16 @@
 .side{
     background-color: #ffffee;
     width: fit-content;
-    height: 300px;
+    height: 400px;
     text-align: center; 
     overflow: auto;
     position: -webkit-sticky;
     position: sticky;
-    top: 50px;
 }
 
 .content{
     background-color: #ffffff;
-    width: 900px;
+    width: 1000px;
     height: 300px;
     text-align: center;
     margin-left: 10px;
