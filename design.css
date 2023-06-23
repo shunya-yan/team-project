@@ -11,10 +11,14 @@
 .content{
     background-color: #ffffff;
     width: 1000px;
-    height: 300px;
+    height: 1500px;
     text-align: center;
     margin-left: 10px;
     top: 300px;
+}
+
+.window{
+    font-size: 40px;
 }
 
 body{
