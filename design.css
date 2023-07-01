@@ -23,4 +23,26 @@
 
 body{
     display: flex;
+    background-color: #fffbfb;
+}
+
+h3{
+    font-size: 30px;
+    font-family: serif
+}
+
+.first{
+    background-color: #e8e89a;
+    font-family: sans-serif;
+    font-size: 15px
+}
+
+.second{
+    background-color: #c9c9c9;
+    font-family: sans-serif;
+    font-size: 15px
+}
+
+.third{
+    background-color: #e6b46f;
 }
