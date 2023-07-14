@@ -1,3 +1,16 @@
+@font-face {
+  font-family: 'kirugo';
+  src: url(../font/GN-KillGothic-U-KanaO.ttf) format(truetype);
+}
+
+.btn{
+  color: rgb(114, 114, 114);
+  background-color: rgb(255, 255, 160);
+  padding: 10px;
+  font-size: 20px;
+  font-family: 'kirugo'
+}
+
 .side{
     background-color: #ffffee;
     width: 300px;
@@ -115,3 +128,4 @@ h3{
   display: block;
   opacity: 1;
 }
+
