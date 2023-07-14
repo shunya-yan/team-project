@@ -152,6 +152,4 @@ window.addEventListener("load", function() {
     secondElement.classList.add("appear");
     thirdElement.classList.add("appear");
 });
-
-  
   
